@@ -14,15 +14,26 @@ An extremely light weight and simple statics blog generator
 That's it. Minimal dependencies!
 
 ### Build your site
-Navigate to your project folder. Write or move your article in markdown to the `./post/` folder. Make sure you remove those demo markdown files. (~~You can keep them if you want~~)
+Navigate to your project folder. 3 demos are added in `./post/` folder for your reference if you **have no experience with markdown** or you want to explore extra functionalities of XASBG! 
 
-You may choose to add a metadata in the beginning of a markdown file like this:
+After you view them (or not), remove those demo markdown files. (~~You can keep them if you want~~) Write or move your article in markdown to the `./post/` folder. 
+
+You may choose to add a metadata section in the beginning of a markdown file like this:
 
 ```
 <!-- title: Article
 time: 1997-09-11
 category: life, travel -->
 ```
+
+> You can simply type the following and comment them using `CTRL+/`
+> ```
+> title: ...
+> time: ...
+> category: ...
+> ```
+>
+> ***Make sure you use comma to separate categories!***
 
 So that the builder will automatically show these on the homepage and also on the title of html file.
 

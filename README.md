@@ -12,7 +12,7 @@ An extremely light weight and simple statics blog generator
 That's it. Minimal dependencies!
 
 ### Build your site
-Navigate to your project folder. Write or move your article in markdown to the `./post/` folder.
+Navigate to your project folder. Write or move your article in markdown to the `./post/` folder. Make sure you remove those demo markdown files. (~~You can keep them if you want~~)
 
 You may choose to add a metadata in the beginning of a markdown file like this:
 

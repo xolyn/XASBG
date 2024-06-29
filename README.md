@@ -1,4 +1,6 @@
 # XASBG
+![image](https://github.com/xolyn/XASBG/assets/118642042/3ef82799-80a4-4025-9fdf-46b558f35423)
+
 An extremely light weight and simple statics blog generator
 
 ## Introduction 

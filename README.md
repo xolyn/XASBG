@@ -1,7 +1,7 @@
 # XASBG
 ![image](https://github.com/xolyn/XASBG/assets/118642042/3ef82799-80a4-4025-9fdf-46b558f35423)
 
-An extremely light weight and simple statics blog generator
+An extremely light weight and simple static blog generator and content management system.
 
 ## Introduction 
 **XASBG** stands for **X**ASBG is **A**nother **S**tatic **B**log **G**enerator. It allows you to be immersed in content creation and will automatically management all your post and show them in the the homepage. It's extremely lightweight and simple, you don't even need to set any configuration `.yaml` or `.xml` files! Just write your articles and build, static webpage files are ready in a second for uploading to any hoster like Cloudflare R2, Amazon S3, etc. 
